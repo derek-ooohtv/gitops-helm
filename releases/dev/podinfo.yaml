@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: dhilder/podinfo:dev-2rnx4s8l
+    image: dhilder/podinfo:dev-dyztpwtz
     replicaCount: 1
     hpa:
       enabled: false
